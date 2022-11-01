@@ -8,5 +8,5 @@
 
 3.然后任意发起一次提交，可以选择修改readme文件。
 
-4.至此自动签到就搭建完毕了，可以再次点击Actions查看工作记录，如果有52Pojie Auto Sign则说明workflow创建成功了。点击右侧记录可以查看详细签到情况
+4.至此自动签到就搭建完毕了，可以再次点击Actions查看工作记录，如果有52Pojie Auto Sign则说明workflow创建成功了。点击右侧记录可以查看详细签到情况2
  ![image](https://user-images.githubusercontent.com/30728105/165697734-a38d6d46-db0e-40a1-8b21-e0d50443de36.png)
